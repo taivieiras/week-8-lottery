@@ -12,7 +12,7 @@ public class Lottery {
 
 // Print Lottery tickets
     public Lottery() {
-        MessageCentre.DebugMessage("Printing a Ticket");
+        MessageCentre.DebugMessage("Printing your Ticket");
     }
 
     public void ParkVehicle(Vehicle vehicleToPark) {
